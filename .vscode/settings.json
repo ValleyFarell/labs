@@ -4,6 +4,22 @@
         "*.o": "c",
         "stdio.h": "c",
         "stdlib.h": "c",
-        "type_traits": "c"
+        "type_traits": "c",
+        "string.h": "c",
+        "vector": "c",
+        "vector.h": "c",
+        "typeinfo": "c",
+        "*.tcc": "c",
+        "random": "c",
+        "limits": "c",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "cstdio": "c",
+        "functional": "c"
     }
 }

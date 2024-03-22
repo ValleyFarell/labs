@@ -1,0 +1,11 @@
+                            VECTORS CALCULATOR
+/=========================================================================\
+|                                                                         |
+|  Put vector's name and type                                             |
+|  with format "name type size".                                          |
+|  Available types:                                                       |
+|  int, double, complex.                                                  |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+\=========================================================================/
